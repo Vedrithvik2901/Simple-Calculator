@@ -35,5 +35,3 @@ calculator-app/
 * Error handling (invalid expressions)
 * Better UI themes
 * Replace `eval()` with safer logic
-
-* Your Name
